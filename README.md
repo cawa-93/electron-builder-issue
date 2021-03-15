@@ -1,4 +1,6 @@
-# electron-builder-issue
+# electron-builder issue reproduction
+
+This is reproduction repo for electron builder [#5713](https://github.com/electron-userland/electron-builder/issues/5713) issue
 
 ### Description
 Electron can't find module if this module imported from npm workspaces. I guess the reason is that there is no `package-lock.json` file in the packed application.
