@@ -1,0 +1,5 @@
+{
+  "name": "@packages/main",
+  "private": true,
+  "main": "dist/index.cjs"
+}

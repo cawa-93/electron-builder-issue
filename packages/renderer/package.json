@@ -1,0 +1,5 @@
+{
+  "name": "@packages/renderer",
+  "private": true,
+  "main": "dist/index.html"
+}
