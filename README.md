@@ -1,5 +1,7 @@
 # electron-builder issue reproduction
 
+[![Test suite](https://github.com/cawa-93/electron-builder-issue/actions/workflows/test.yml/badge.svg)](https://github.com/cawa-93/electron-builder-issue/actions/workflows/test.yml)
+
 This is reproduction repo for electron builder [#5713](https://github.com/electron-userland/electron-builder/issues/5713) issue
 
 ### Description
