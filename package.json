@@ -11,10 +11,12 @@
   ],
   "main": "packages/main/dist/index.cjs",
   "scripts": {
+    "test": "node test.js",
     "build": "electron-builder --dir --config.asar=false"
   },
   "devDependencies": {
     "electron": "latest",
-    "electron-builder": "latest"
+    "electron-builder": "latest",
+    "playwright": "1.14.1"
   }
 }
