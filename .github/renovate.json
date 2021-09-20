@@ -1,0 +1,14 @@
+{
+  "extends": [
+    "group:all",
+    "workarounds:all",
+    ":pinVersions",
+    ":ignoreModulesAndTests",
+    ":disableDigestUpdates",
+    ":automergeAll",
+    ":automergeBranch",
+    ":automergeRequireAllStatusChecks",
+    ":onlyNpm",
+    ":disableDependencyDashboard"
+  ]
+}
